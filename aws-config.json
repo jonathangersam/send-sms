@@ -1,0 +1,6 @@
+{
+  "accessKeyId": "x",
+  "secretAccessKey": "y",
+  "regions": "ap-southeast-1",
+  "sslEnabled": false
+}
